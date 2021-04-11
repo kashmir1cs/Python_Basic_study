@@ -1,4 +1,5 @@
 # format 사용 [], {}, ()
+# fornating 관련하여 참고하면 좋은 사이트 : https://dojang.io/mod/page/view.php?id=2300
 # 중요함
 print()
 print('{} and {}'.format('You','Me'))
